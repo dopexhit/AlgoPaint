@@ -1,6 +1,8 @@
 # AlgoPaint
 A paint application for teaching purpose.
 
+
+
 **Features** : 
 
     Platform for drawing
@@ -10,3 +12,6 @@ A paint application for teaching purpose.
     Upload image
 
     Includes algorithm images for teaching purpose
+    
+    
+That's All
