@@ -10,3 +10,5 @@ A paint application for teaching purpose.
     Upload image
 
     Includes algorithm images for teaching purpose
+
+This is all
